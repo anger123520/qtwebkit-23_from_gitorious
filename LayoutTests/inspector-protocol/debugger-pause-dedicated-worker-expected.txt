@@ -1,0 +1,6 @@
+Started worker
+didEnableWorkerDebugging
+Worker created
+didConnectToWorker
+SUCCESS: Worker paused
+
